@@ -1,13 +1,26 @@
-Tela de Login | Tema Dark/Light
-Projeto de tela de login responsiva com suporte aos modos Dark e Light, oferecendo uma interface moderna e adaptável ao gosto do usuário. Ideal para aplicações web que priorizam usabilidade e visual elegante.
+# 🌓 Tela de Login | Tema Dark/Light
 
-Funcionalidades:
-🔒 Campos de login com nome, e-mail e senha
-🌐 Login com redes sociais (Facebook, Google, GitHub)
-🌓 Alternância entre modo claro e escuro com visual dinâmico
-⚙️ Ícones interativos e animações sutis para melhor experiência
+Este projeto é uma **interface de tela de login** com suporte aos modos **Dark** e **Light**, desenvolvida com foco em responsividade, acessibilidade e uma experiência de usuário moderna.
 
-Tecnologias Utilizadas:
-HTML, CSS e JavaScript
+## 💡 Funcionalidades
 
-Este projeto demonstra atenção à acessibilidade, personalização de interface e boas práticas de UI/UX.
+- 🔒 Campos para **nome**, **e-mail** e **senha**
+- 🌐 Opção de login via redes sociais: **Facebook**, **Google** e **GitHub**
+- 🌓 Alternância entre **modo claro e escuro**
+- ⚙️ Ícones e animações sutis para melhorar a usabilidade
+- 💻 Layout responsivo para diferentes tamanhos de tela
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+## 📸 Preview
+
+![Tela de Login](![TemaLogin](https://github.com/user-attachments/assets/53334d6f-b871-4952-a65d-b3a7644842ae))
+
+## 🚀 Como usar
+
+1. Clone o repositório:
+https://bryan01santos.github.io/DarkLight-Form/
