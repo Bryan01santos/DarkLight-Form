@@ -18,9 +18,9 @@ Este projeto é uma **interface de tela de login** com suporte aos modos **Dark*
 
 ## 📸 Preview
 
-![Tela de Login](![TemaLogin](https://github.com/user-attachments/assets/53334d6f-b871-4952-a65d-b3a7644842ae))
+![Tela de Login]()
 
 ## 🚀 Como usar
 
-1. Clone o repositório:
+1. Confira a página:
 https://bryan01santos.github.io/DarkLight-Form/
